@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">RollInitiativeV2</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_pass">Contraseña</string>
+    <string name="hint_confirm_pass">Confirme la contraseña</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Registrate</string>
+    <string name="error_msg_name">Escriba nombre completo</string>
+    <string name="error_msg_email">Escriba un mail valido</string>
+    <string name="error_msg_age">Ingrese su edad</string>
+    <string name="error_msg_pass">Escriba su contraseña</string>
+    <string name="success_msg">Registro exitoso</string>
+    <string name="txt_not_member">Registrate aqui</string>
+    <string name="error_mail_exists">Ese correo ya esta registrado</string>
+    <string name="error_pass_match">Las contraseñas no se parecen</string>
+    <string name="error_valid_mail_pass">Email o contraseña incorrectos</string>
+    <string name="text_member">¿Ya eres tienes cuenta?</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="new_encounter">Nuevo encuentro</string>
+    <string name="bad_save">Error al guardar</string>
+    <string name="notification_title">Un Tiro Salvaje !!</string>
+    <string name="notification_contents_text">Haz creado un nuevo encuentro</string>
+    <string name="all_frg_title">ALL</string>
+    <string name="dialog_hint_name">Name</string>
+    <string name="Guardar">Save</string>
+    <string name="players">Jugadores</string>
+    <string name="refresh">Actualizar</string>
+    <string name="enemy">Enemigos</string>
+    <string name="npc">NPC</string>
+    <string name="permissiongranted">Permiso concedido</string>
+    <string name="needspermision">Falta permiso</string>
+    <string name="permisionmotive">Se requiera almacenar datos en memoria externa</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancelar</string>
+</resources>
